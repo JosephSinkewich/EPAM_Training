@@ -1,0 +1,7 @@
+D:\Workshop\source\repos\EpmTrnHW03_1\EpmTrnHW03_1\bin\Debug\EpmTrnHW03_1.exe.config
+D:\Workshop\source\repos\EpmTrnHW03_1\EpmTrnHW03_1\bin\Debug\EpmTrnHW03_1.exe
+D:\Workshop\source\repos\EpmTrnHW03_1\EpmTrnHW03_1\bin\Debug\EpmTrnHW03_1.pdb
+D:\Workshop\source\repos\EpmTrnHW03_1\EpmTrnHW03_1\obj\Debug\EpmTrnHW03_1.csprojResolveAssemblyReference.cache
+D:\Workshop\source\repos\EpmTrnHW03_1\EpmTrnHW03_1\obj\Debug\EpmTrnHW03_1.csproj.CoreCompileInputs.cache
+D:\Workshop\source\repos\EpmTrnHW03_1\EpmTrnHW03_1\obj\Debug\EpmTrnHW03_1.exe
+D:\Workshop\source\repos\EpmTrnHW03_1\EpmTrnHW03_1\obj\Debug\EpmTrnHW03_1.pdb

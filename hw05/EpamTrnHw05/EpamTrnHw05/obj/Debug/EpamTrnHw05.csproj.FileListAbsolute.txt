@@ -1,0 +1,7 @@
+D:\Workshop\source\repos\EpamTrnHw05\EpamTrnHw05\bin\Debug\EpamTrnHw05.exe.config
+D:\Workshop\source\repos\EpamTrnHw05\EpamTrnHw05\bin\Debug\EpamTrnHw05.exe
+D:\Workshop\source\repos\EpamTrnHw05\EpamTrnHw05\bin\Debug\EpamTrnHw05.pdb
+D:\Workshop\source\repos\EpamTrnHw05\EpamTrnHw05\obj\Debug\EpamTrnHw05.csprojResolveAssemblyReference.cache
+D:\Workshop\source\repos\EpamTrnHw05\EpamTrnHw05\obj\Debug\EpamTrnHw05.csproj.CoreCompileInputs.cache
+D:\Workshop\source\repos\EpamTrnHw05\EpamTrnHw05\obj\Debug\EpamTrnHw05.exe
+D:\Workshop\source\repos\EpamTrnHw05\EpamTrnHw05\obj\Debug\EpamTrnHw05.pdb
