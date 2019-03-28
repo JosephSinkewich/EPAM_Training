@@ -39,15 +39,14 @@ namespace EpamTrnHw05
                 text = text.Replace(word, wordReplacements[word]);
             }
 
-            File.WriteAllText(@"pack.txt", text);
-            string packedText = File.ReadAllText(@"pack.txt");
+            File.WriteAllText(@"pack.txt", text, Encoding.Default);
 
             foreach (string symbol in wordReplacementsReverse.Keys)
             {
-                packedText = packedText.Replace(symbol, wordReplacementsReverse[symbol]);
+                text = text.Replace(symbol, wordReplacementsReverse[symbol]);
             }
 
-            File.WriteAllText(@"unpack.txt", packedText);
+            File.WriteAllText(@"unpack.txt", text, Encoding.Default);
         }
     }
 }
